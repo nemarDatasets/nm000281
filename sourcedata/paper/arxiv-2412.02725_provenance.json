@@ -1,0 +1,12 @@
+{
+  "Title": "emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation",
+  "ArXivID": "2412.02725",
+  "DOI": "10.48550/arXiv.2412.02725",
+  "PDFURL": "https://arxiv.org/pdf/2412.02725",
+  "SourceURL": "https://arxiv.org/e-print/2412.02725",
+  "DownloadedFiles": [
+    "arxiv-2412.02725.pdf",
+    "arxiv-2412.02725-source.tar.gz"
+  ],
+  "DownloadedFor": "NEMAR provenance and dataset metadata enrichment"
+}
