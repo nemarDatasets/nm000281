@@ -21,6 +21,9 @@
     "Alexandre Gramfort"
   ],
   "Acknowledgements": "Reality Labs, Meta. This NEMAR re-host preserves the public emg2pose release and converts it to EMG-BIDS using the upstream PR #6 MNE/MNE-BIDS approach contributed by Alexandre Gramfort (@agramfort).",
+  "EthicsApprovals": [
+    "The source publication states that participant recruitment and on-boarding followed an external IRB-approved protocol, that participants reviewed and signed an IRB-reviewed consent form before study initiation, and that all data were de-identified to remove personally identifiable metadata."
+  ],
   "HowToAcknowledge": "Please cite: Salter, Warren, Schlager et al. emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation. NeurIPS 2024 Datasets and Benchmarks Track. arXiv:2412.02725.",
   "GeneratedBy": [
     {
