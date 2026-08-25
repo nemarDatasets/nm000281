@@ -1,0 +1,49 @@
+{
+  "TaskName": "emg2pose",
+  "SamplingFrequency": 2000.0,
+  "PowerLineFrequency": "n/a",
+  "RecordingType": "continuous",
+  "EMGPlacementScheme": "Other",
+  "EMGPlacementSchemeDescription": "Surface EMG electrode placement on wrist/forearm devices; exact anatomical coordinates are not provided in the public release.",
+  "SourceFile": "2022-07-25-1658736000-8cd84-cv-emg-pose-demonstration@2-recording-14_left.hdf5",
+  "SourceURL": "https://fb-ctrl-oss.s3.amazonaws.com/emg2pose/emg2pose_dataset.tar",
+  "Stage": "unconstrained",
+  "HandSide": "left",
+  "TaskDescription": "Surface EMG recordings paired with hand-pose joint angles for the emg2pose benchmark.",
+  "Instructions": "Participants performed the hand-movement stage named in the Stage field; exact participant instructions are not provided in the public release.",
+  "Manufacturer": "Meta Reality Labs CTRL Research",
+  "ManufacturersModelName": "Surface EMG wrist/forearm recording system",
+  "SoftwareVersions": "n/a",
+  "DeviceSerialNumber": "n/a",
+  "InstitutionName": "Meta Reality Labs",
+  "InstitutionAddress": "n/a",
+  "InstitutionalDepartmentName": "CTRL Research",
+  "EMGChannelCount": 16,
+  "EMGReference": "Bipolar",
+  "HardwareFilters": {
+    "Analog bandpass filter": {
+      "Low cutoff -3 dB (Hz)": 20,
+      "High cutoff -3 dB (Hz)": 850
+    }
+  },
+  "SoftwareFilters": {
+    "EMG high-pass and rescaling": {
+      "High-pass cutoff (Hz)": 40,
+      "Description": "Upstream emg2pose release high-pass filtered the sEMG at 40 Hz and rescaled it so the noise floor has a standard deviation of one."
+    },
+    "Joint-angle low-pass filter": {
+      "Low-pass cutoff (Hz)": 15,
+      "Description": "Motion-capture inverse-kinematics joint angles were low-pass filtered at 15 Hz and upsampled to 2 kHz in the upstream release."
+    }
+  },
+  "ElectrodeManufacturer": "Meta Reality Labs CTRL Research",
+  "ElectrodeManufacturersModelName": "sEMG-RD dry gold-plated differential electrode pair",
+  "RecordingDuration": 44.4435,
+  "ElectrodeMaterial": "Dry gold-plated electrodes",
+  "SEMGRDDescription": "sEMG-RD wrist bands with 16 differential electrode pairs arranged on a rigid ribbon, one band per wrist.",
+  "MotionCaptureDescription": "Joint-angle labels were derived from 19 markers per hand tracked by a 26-camera OptiTrack/Motive2 setup and solved with an offline inverse-kinematics pipeline.",
+  "OriginalRecordingDuration": 44.4435,
+  "ValidSamples": 88888,
+  "BDFPaddedSamples": 1112,
+  "BDFPaddedDuration": 0.556
+}

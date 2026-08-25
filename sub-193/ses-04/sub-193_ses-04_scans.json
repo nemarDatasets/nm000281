@@ -1,0 +1,18 @@
+{
+  "duration": {
+    "Description": "Recording duration in seconds."
+  },
+  "stage": {
+    "Description": "emg2pose movement stage label from the upstream metadata."
+  },
+  "side": {
+    "Description": "Recorded hand side.",
+    "Levels": {
+      "left": "Left side.",
+      "right": "Right side."
+    }
+  },
+  "source_file": {
+    "Description": "Original upstream HDF5 file name."
+  }
+}

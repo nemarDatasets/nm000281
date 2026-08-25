@@ -1,0 +1,48 @@
+{
+  "Name": "emg2pose: Surface EMG and Hand Pose",
+  "BIDSVersion": "1.11.1",
+  "DatasetType": "raw",
+  "License": "CC-BY-NC-SA-4.0",
+  "Authors": [
+    "Sasha Salter",
+    "Richard Warren",
+    "Collin Schlager",
+    "Adrian Spurr",
+    "Shangchen Han",
+    "Rohin Bhasin",
+    "Yujun Cai",
+    "Peter Walkington",
+    "Anuoluwapo Bolarinwa",
+    "Robert Wang",
+    "Nathan Danielson",
+    "Josh Merel",
+    "Eftychios Pnevmatikakis",
+    "Jesse Marshall",
+    "Alexandre Gramfort"
+  ],
+  "Acknowledgements": "Reality Labs, Meta. This NEMAR re-host preserves the public emg2pose release and converts it to EMG-BIDS using the upstream PR #6 MNE/MNE-BIDS approach contributed by Alexandre Gramfort (@agramfort).",
+  "HowToAcknowledge": "Please cite: Salter, Warren, Schlager et al. emg2pose: A Large and Diverse Benchmark for Surface Electromyographic Hand Pose Estimation. NeurIPS 2024 Datasets and Benchmarks Track. arXiv:2412.02725.",
+  "GeneratedBy": [
+    {
+      "Name": "convert_emg2pose_pr6_fast.py",
+      "Version": "0.1",
+      "Description": "Fast parallel adaptation of facebookresearch/emg2pose PR #6. The converter writes BDF files with 16 EMG channels and 20 radian joint-angle channels, plus BIDS sidecars."
+    }
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.48550/arXiv.2412.02725",
+    "https://arxiv.org/abs/2412.02725",
+    "https://arxiv.org/pdf/2412.02725",
+    "https://github.com/facebookresearch/emg2pose",
+    "https://github.com/facebookresearch/emg2pose/pull/6",
+    "https://fb-ctrl-oss.s3.amazonaws.com/emg2pose/emg2pose_dataset.tar"
+  ],
+  "SourceDatasets": [
+    {
+      "URL": "https://fb-ctrl-oss.s3.amazonaws.com/emg2pose/emg2pose_dataset.tar",
+      "DOI": "10.48550/arXiv.2412.02725",
+      "Version": "public emg2pose release used by arXiv:2412.02725"
+    }
+  ],
+  "DatasetDOI": "n/a"
+}
