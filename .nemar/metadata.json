@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the Meta emg2pose benchmark, comprising surface electromyography (sEMG) recordings paired with hand pose labels for hand pose estimation research. It contains 2 kHz, 16-channel wrist sEMG data collected from 193 users across 370 hours and 29 behavioral stages, synchronized with joint-angle labels derived from a 26-camera motion-capture rig, yielding approximately 80 million labeled frames. The dataset supports benchmarking of surface electromyographic methods for estimating hand pose.",
-  "methods_description": "Surface EMG was recorded at 2 kHz using 16 wrist-mounted channels, paired with hand pose labels captured by a 26-camera motion-capture rig. Joint-angle labels were derived via inverse kinematics and stored as 20 radian-valued joint-angle channels. Upstream HDF5 recordings were converted to EMG-BIDS BDF files using a fast parallel adaptation of the facebookresearch/emg2pose PR #6 approach, with BAD_IK annotations marking samples where inverse-kinematics labels are all zero.",
+  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of Meta's public emg2pose release, a large-scale benchmark pairing surface electromyography (sEMG) with hand pose estimation. It comprises 2 kHz, 16-channel wrist sEMG recordings synchronized with hand pose labels captured via a 26-camera motion-capture rig, spanning 193 users, 370 hours, and 29 behavioral stages with approximately 80 million labeled frames. The dataset supports research on EMG-based hand pose estimation and human-computer interaction.",
+  "methods_description": "Surface EMG was recorded at 2 kHz across 16 channels from the wrist, paired with hand pose labels obtained from a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files containing 16 EMG channels and 20 radian-valued joint-angle MISC channels, with BAD_IK annotations marking samples where inverse-kinematics labels are all zero.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -30,16 +30,16 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
     },
     {
-      "term": "surface EMG"
+      "term": "hand pose estimation"
     },
     {
-      "term": "hand pose estimation"
+      "term": "surface EMG"
     },
     {
       "term": "motion capture"
     },
     {
-      "term": "inverse kinematics"
+      "term": "benchmark dataset"
     },
     {
       "term": "BIDS"
@@ -80,10 +80,11 @@
     ".csv",
     ".gz",
     ".json",
+    ".md",
     ".pdf",
     ".tar",
     ".tsv",
     ".yml"
   ],
-  "source_hash": "31abc215d1e0e264f3938f80c61464f76ae0a76a513b6431fc62e89688cb9d71"
+  "source_hash": "a5cb9e70a9ab6d91b9f80c548491ab5c68c58315c52096a752e56655a600d807"
 }
