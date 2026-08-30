@@ -47,5 +47,6 @@
       "Version": "public emg2pose release used by arXiv:2412.02725"
     }
   ],
-  "DatasetDOI": "n/a"
+  "DatasetDOI": "n/a",
+  "Version": "1.0.1"
 }
