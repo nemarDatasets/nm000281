@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	59.8285	PlayBlocksChess	left
+28.119	0.033	BAD_IK	left
+42.0525	0.0165	BAD_IK	left
+48.6025	0.1	BAD_IK	left

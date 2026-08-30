@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	47.1485	HandOverHandCountingUpDownFingerWigglingSpreading	right
+0.0	0.017	BAD_IK	right
+1.2	0.2	BAD_IK	right
+8.184	0.2	BAD_IK	right
+23.0185	0.05	BAD_IK	right

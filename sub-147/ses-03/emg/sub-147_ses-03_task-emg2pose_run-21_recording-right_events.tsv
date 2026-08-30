@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	59.2095	ShakaVulcanPeace	right
+0.0	2.2	BAD_IK	right
+2.4835	1.2	BAD_IK	right
+4.75	0.95	BAD_IK	right
+6.55	0.4835	BAD_IK	right

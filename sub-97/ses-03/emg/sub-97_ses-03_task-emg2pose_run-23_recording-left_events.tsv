@@ -1,2 +1,7 @@
 onset	duration	trial_type	side
 0.0	59.501	HookEmHornsOKScissors	left
+0.0	0.8165	BAD_IK	left
+32.1855	0.25	BAD_IK	left
+34.637	0.5	BAD_IK	left
+35.4035	0.6	BAD_IK	left
+36.755	0.2835	BAD_IK	left

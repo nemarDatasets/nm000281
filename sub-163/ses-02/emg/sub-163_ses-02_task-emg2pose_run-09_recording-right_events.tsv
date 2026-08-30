@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	44.8605	DoorknobFingerGraspFistGrab	right
+0.0	0.05	BAD_IK	right
+0.5835	0.3165	BAD_IK	right
+34.78	0.067	BAD_IK	right

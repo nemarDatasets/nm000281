@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	60.4755	CountingUpDownFaceSideAway	left
+0.0	0.0665	BAD_IK	left
+8.0335	6.0175	BAD_IK	left
+29.002	0.9835	BAD_IK	left
+37.7525	0.0165	BAD_IK	left

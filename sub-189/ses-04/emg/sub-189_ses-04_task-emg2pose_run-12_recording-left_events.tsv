@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	59.137	WristFlexionAbduction	left
+8.017	0.367	BAD_IK	left
+41.9485	0.0665	BAD_IK	left

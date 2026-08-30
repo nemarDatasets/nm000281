@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	60.5765	CoffeePanicPete	right
+0.0	0.05	BAD_IK	right
+32.852	0.45	BAD_IK	right
+34.1855	0.15	BAD_IK	right

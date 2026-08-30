@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	44.4005	OneHandedFreeStyle	right
+4.9005	0.0665	BAD_IK	right
+5.0505	0.15	BAD_IK	right

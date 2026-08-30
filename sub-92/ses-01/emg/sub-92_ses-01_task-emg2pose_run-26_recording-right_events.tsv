@@ -1,2 +1,7 @@
 onset	duration	trial_type	side
 0.0	43.8285	PokeDrawPinchRotateclosefar	right
+0.0	0.1335	BAD_IK	right
+5.317	0.1	BAD_IK	right
+14.968	0.133	BAD_IK	right
+17.6515	1.6665	BAD_IK	right
+20.268	0.1	BAD_IK	right

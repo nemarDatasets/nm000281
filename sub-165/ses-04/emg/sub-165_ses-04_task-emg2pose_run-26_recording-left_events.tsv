@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	58.2485	FingerTouchPalmClapmrburns	left
+0.0	0.1835	BAD_IK	left
+0.6	0.017	BAD_IK	left
+21.135	3.767	BAD_IK	left
+35.32	2.2005	BAD_IK	left

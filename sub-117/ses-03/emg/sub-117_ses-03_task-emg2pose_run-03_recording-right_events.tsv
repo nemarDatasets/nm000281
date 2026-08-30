@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	72.5415	CountingUpDownFaceSideAway	right
+0.0	0.05	BAD_IK	right
+3.1	0.05	BAD_IK	right
+27.885	0.217	BAD_IK	right
+37.0635	0.2	BAD_IK	right

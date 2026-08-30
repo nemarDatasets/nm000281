@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	59.177	IndividualFingerPointingSnap	right
+0.0	0.8	BAD_IK	right
+28.502	0.4	BAD_IK	right
+39.861	0.3	BAD_IK	right
+44.7625	0.0165	BAD_IK	right

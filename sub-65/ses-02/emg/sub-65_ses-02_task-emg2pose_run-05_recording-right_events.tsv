@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	61.8635	ThumbsSwipesWholeHand	right
+0.0	0.1	BAD_IK	right
+0.1665	0.0165	BAD_IK	right
