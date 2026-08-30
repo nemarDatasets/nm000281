@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000281-blue)](https://doi.org/10.82901/nemar.nm000281)
+
 emg2pose: Surface EMG and Hand Pose
 
 This dataset is a NEMAR re-host and EMG-BIDS conversion of the public Meta

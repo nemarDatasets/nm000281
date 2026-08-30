@@ -45,8 +45,11 @@
       "URL": "https://fb-ctrl-oss.s3.amazonaws.com/emg2pose/emg2pose_dataset.tar",
       "DOI": "10.48550/arXiv.2412.02725",
       "Version": "public emg2pose release used by arXiv:2412.02725"
+    },
+    {
+      "DOI": "n/a"
     }
   ],
-  "DatasetDOI": "n/a",
+  "DatasetDOI": "10.82901/nemar.nm000281",
   "Version": "1.0.1"
 }

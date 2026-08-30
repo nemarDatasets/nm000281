@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "emg2pose: Surface EMG and Hand Pose",
+  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of Meta's public emg2pose release, a large-scale benchmark pairing surface electromyography (sEMG) with hand pose estimation. It comprises 2 kHz, 16-channel wrist sEMG recordings synchronized with hand pose labels captured via a 26-camera motion-capture rig, spanning 193 users, 370 hours, and 29 behavioral stages with approximately 80 million labeled frames. The dataset supports research on EMG-based hand pose estimation and human-computer interaction.",
+  "methods_description": "Surface EMG was recorded at 2 kHz across 16 channels from the wrist, paired with hand pose labels obtained from a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files containing 16 EMG channels and 20 radian-valued joint-angle MISC channels, with BAD_IK annotations marking samples where inverse-kinematics labels are all zero.",
+  "license": "CC-BY-NC-SA-4.0",
+  "dataset_type": "raw",
   "authors": {
     "Sasha Salter": {},
     "Richard Warren": {},
@@ -18,6 +23,28 @@
     "Jesse Marshall": {},
     "Alexandre Gramfort": {}
   },
+  "keywords": [
+    {
+      "term": "Electromyography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
+    },
+    {
+      "term": "hand pose estimation"
+    },
+    {
+      "term": "surface EMG"
+    },
+    {
+      "term": "motion capture"
+    },
+    {
+      "term": "benchmark dataset"
+    },
+    {
+      "term": "BIDS"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.48550/arXiv.2412.02725",
@@ -35,56 +62,29 @@
       "relation_type": "IsDescribedBy"
     }
   ],
-  "title": "emg2pose: Surface EMG and Hand Pose",
-  "license": "CC-BY-NC-SA-4.0",
-  "dataset_type": "raw",
-  "resource_type_general": "Dataset",
-  "modalities": [
-    "emg"
-  ],
-  "resource_type_specific": "EMG Dataset",
-  "sizes": [
-    "793.5 GB (25180 files)"
-  ],
-  "formats": [
-    ".bdf",
-    ".json",
-    ".tsv"
-  ],
-  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose release, a large-scale benchmark pairing surface electromyography (sEMG) with hand pose labels. It comprises 2 kHz, 16-channel wrist sEMG recordings from 193 users across 370 hours and 29 behavioral stages, synchronized with hand pose labels captured via a 26-camera motion-capture rig, yielding approximately 80 million labeled frames. The dataset supports research on EMG-based hand pose estimation and human-computer interaction.",
-  "methods_description": "Wrist surface EMG was recorded at 2 kHz across 16 channels, paired with hand pose labels derived from a 26-camera motion-capture rig using inverse kinematics. Data were converted from upstream HDF5 recordings into EMG-BIDS format as BDF files containing 16 EMG channels and 20 radian-valued joint-angle MISC channels, with BAD_IK annotations marking samples where inverse-kinematics labels were all zero.",
-  "keywords": [
-    {
-      "term": "Electromyography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
-    },
-    {
-      "term": "hand pose estimation"
-    },
-    {
-      "term": "motion capture"
-    },
-    {
-      "term": "wearable sensors"
-    },
-    {
-      "term": "biomechanics"
-    },
-    {
-      "term": "machine learning benchmark"
-    },
-    {
-      "term": "sEMG"
-    },
-    {
-      "term": "gesture recognition"
-    }
-  ],
   "funding_references": [
     {
       "funder_name": "Reality Labs, Meta"
     }
   ],
-  "source_hash": "f0429d2bbfa2d80ff1f0b85aba8e7ead43fef3bb922d7032d62f9dc9dba12682"
+  "resource_type_general": "Dataset",
+  "resource_type_specific": "EMG Dataset",
+  "modalities": [
+    "emg"
+  ],
+  "sizes": [
+    "793.5 GB (25180 files)"
+  ],
+  "formats": [
+    ".bdf",
+    ".csv",
+    ".gz",
+    ".json",
+    ".md",
+    ".pdf",
+    ".tar",
+    ".tsv",
+    ".yml"
+  ],
+  "source_hash": "a5cb9e70a9ab6d91b9f80c548491ab5c68c58315c52096a752e56655a600d807"
 }
