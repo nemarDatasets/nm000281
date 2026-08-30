@@ -1,2 +1,7 @@
 onset	duration	trial_type	side
 0.0	44.2795	OneHandedFreeStyle	left
+3.15	0.1335	BAD_IK	left
+16.4675	0.05	BAD_IK	left
+29.8685	0.15	BAD_IK	left
+34.5005	0.0335	BAD_IK	left
+35.967	0.317	BAD_IK	left

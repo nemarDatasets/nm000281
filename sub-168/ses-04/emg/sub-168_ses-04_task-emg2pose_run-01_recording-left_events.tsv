@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	86.781	ThumbsUpDownThumbRotationsCWCCWP	left
+0.0	0.15	BAD_IK	left
+13.434	3.534	BAD_IK	left
+52.4255	0.3665	BAD_IK	left

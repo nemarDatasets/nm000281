@@ -1,2 +1,7 @@
 onset	duration	trial_type	side
 0.0	58.7965	FingerPinchesSingleFingerPinchesMultiple	right
+0.0	0.05	BAD_IK	right
+21.2015	1.15	BAD_IK	right
+22.4015	0.017	BAD_IK	right
+22.4515	0.4835	BAD_IK	right
+54.914	0.0165	BAD_IK	right

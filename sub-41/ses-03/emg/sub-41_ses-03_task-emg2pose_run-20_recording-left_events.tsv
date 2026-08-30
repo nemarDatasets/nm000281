@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	58.7135	HandClawGraspFlicks	left
+0.0	0.0665	BAD_IK	left
+15.0175	1.0335	BAD_IK	left

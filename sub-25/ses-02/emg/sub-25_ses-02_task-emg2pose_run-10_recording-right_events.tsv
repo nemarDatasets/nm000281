@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	61.0125	FingerAbductionSeries	right
+4.967	0.067	BAD_IK	right
+5.084	0.183	BAD_IK	right

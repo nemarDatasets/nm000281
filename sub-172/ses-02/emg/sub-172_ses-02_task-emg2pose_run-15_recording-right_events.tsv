@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	76.425	FingerFreeform	right
+0.0	0.0335	BAD_IK	right
+5.017	0.05	BAD_IK	right
+41.9135	0.0335	BAD_IK	right

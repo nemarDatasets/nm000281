@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	76.3455	HandDeskSeparateClaspedChest	right
+0.0	0.0165	BAD_IK	right
+0.383	0.0835	BAD_IK	right
+0.5665	0.0165	BAD_IK	right
+0.6165	0.0665	BAD_IK	right

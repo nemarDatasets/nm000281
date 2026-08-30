@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	45.537	unconstrained	left
+0.0	0.1	BAD_IK	left
+32.8525	0.05	BAD_IK	left

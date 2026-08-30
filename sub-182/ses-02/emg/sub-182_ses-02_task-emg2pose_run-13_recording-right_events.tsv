@@ -1,2 +1,6 @@
 onset	duration	trial_type	side
 0.0	44.613	FastPongFronthandBackhandThrowing	right
+0.0	0.05	BAD_IK	right
+25.952	0.1	BAD_IK	right
+29.252	0.2335	BAD_IK	right
+36.015	0.017	BAD_IK	right

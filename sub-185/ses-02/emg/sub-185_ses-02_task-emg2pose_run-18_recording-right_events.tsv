@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	45.3405	GraspPunchCloseFar	right
+0.167	0.05	BAD_IK	right
+0.3835	0.0165	BAD_IK	right

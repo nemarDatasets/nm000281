@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	68.1245	FingerWigglingSpreading	right
+0.0	0.15	BAD_IK	right
+28.3855	0.25	BAD_IK	right

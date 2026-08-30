@@ -1,2 +1,5 @@
 onset	duration	trial_type	side
 0.0	56.3325	IndexPinchesMiddlePinchesThumbswipes	right
+2.1	0.0335	BAD_IK	right
+26.802	0.3665	BAD_IK	right
+29.569	0.033	BAD_IK	right
