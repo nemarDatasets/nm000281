@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of Meta's public emg2pose release, a large-scale benchmark pairing surface electromyography (sEMG) with hand pose estimation. It comprises 2 kHz, 16-channel wrist sEMG recordings synchronized with hand pose labels captured via a 26-camera motion-capture rig, spanning 193 users, 370 hours, and 29 behavioral stages with approximately 80 million labeled frames. The dataset supports research on EMG-based hand pose estimation and human-computer interaction.",
-  "methods_description": "Surface EMG was recorded at 2 kHz across 16 channels from the wrist, paired with hand pose labels obtained from a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files containing 16 EMG channels and 20 radian-valued joint-angle MISC channels, with BAD_IK annotations marking samples where inverse-kinematics labels are all zero.",
+  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the Meta emg2pose benchmark, comprising synchronized surface electromyography and hand pose recordings. It contains 2 kHz, 16-channel sEMG signals paired with hand pose labels derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and approximately 80 million labeled frames across 29 behavioral stages. The dataset supports research on surface EMG-based hand pose estimation and human-computer interaction.",
+  "methods_description": "EMG signals were recorded at 2 kHz across 16 channels from the wrist, synchronized with hand pose labels captured via a 26-camera motion-capture rig and represented as 20 radian-valued joint-angle channels. The original HDF5 recordings were converted to EMG-BIDS BDF format using a parallel adaptation of the facebookresearch/emg2pose PR #6 pipeline, with BAD_IK annotations marking samples where inverse-kinematics labels were invalid.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -39,10 +39,10 @@
       "term": "motion capture"
     },
     {
-      "term": "benchmark dataset"
+      "term": "human-computer interaction"
     },
     {
-      "term": "BIDS"
+      "term": "benchmark dataset"
     }
   ],
   "related_identifiers": [
@@ -80,11 +80,12 @@
     ".csv",
     ".gz",
     ".json",
-    ".md",
     ".pdf",
+    ".py",
+    ".sbatch",
     ".tar",
     ".tsv",
     ".yml"
   ],
-  "source_hash": "a5cb9e70a9ab6d91b9f80c548491ab5c68c58315c52096a752e56655a600d807"
+  "source_hash": "3ef174c94992c3d110272ede8898bbcf29b73fe3f33e3a40d184aafbf721cc9f"
 }

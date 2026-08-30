@@ -1,2 +1,4 @@
 onset	duration	trial_type	side
 0.0	45.109	HandOverHandAllFingerPinchesThumbSwipeThumbRotate	right
+0.0	3.6	BAD_IK	right
+17.918	27.1915	BAD_IK	right
