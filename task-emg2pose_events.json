@@ -12,6 +12,12 @@
       "right": "Right side."
     }
   },
+  "split": {
+    "Description": "EMG2Pose paper split assignment for this recording."
+  },
+  "generalization": {
+    "Description": "EMG2Pose paper generalization regime for this recording."
+  },
   "StimulusPresentation": {
     "SoftwareName": "n/a"
   }
