@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the Meta emg2pose benchmark, comprising surface electromyography (sEMG) recordings paired with hand pose labels for hand pose estimation research. It includes 2 kHz, 16-channel wrist sEMG signals synchronized with joint-angle data derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and roughly 80 million labeled frames across 29 behavioral stages. The dataset is intended as a large-scale benchmark for surface EMG-based hand pose estimation models.",
-  "methods_description": "EMG recordings were collected at 2 kHz using 16 surface EMG channels on the wrist, synchronized with hand pose labels obtained from a 26-camera motion-capture rig producing 20 joint-angle channels via inverse kinematics. The upstream HDF5 recordings were converted to EMG-BIDS BDF files using a parallel adaptation of the facebookresearch/emg2pose PR #6 pipeline, with joint angles stored as radian-valued MISC channels and BAD_IK annotations marking invalid inverse-kinematics samples.",
+  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose benchmark, comprising surface electromyography (sEMG) recordings paired with hand pose labels for wrist-worn EMG-based hand pose estimation. It includes 2 kHz, 16-channel sEMG recordings synchronized with joint-angle labels derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and approximately 80 million labeled frames across 29 behavioral stages.",
+  "methods_description": "Surface EMG was recorded at 2 kHz with 16 channels from the wrist, paired with hand pose labels derived from a 26-camera motion-capture rig using inverse kinematics to produce 20 joint-angle channels. The original HDF5 recordings were converted to EMG-BIDS BDF files using a parallel adaptation of facebookresearch/emg2pose PR #6, with BAD_IK annotations marking samples where inverse-kinematics labels are invalid.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -39,10 +39,10 @@
       "term": "motion capture"
     },
     {
-      "term": "benchmark dataset"
+      "term": "inverse kinematics"
     },
     {
-      "term": "joint kinematics"
+      "term": "BIDS"
     }
   ],
   "related_identifiers": [
@@ -88,5 +88,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "0755139ea1f7c1b704047ce1e2de58462934feb5fc4ca74142ad6a254cab7f52"
+  "source_hash": "019dd76035d6d6034667222b7e78cec6ed62595a69a33ffa295ce720c3d550de"
 }
