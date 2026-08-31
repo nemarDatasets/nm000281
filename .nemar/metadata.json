@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "validated",
+  "pipeline_stage": "enriched",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose benchmark, comprising surface electromyography (sEMG) recordings paired with hand pose labels for wrist-worn EMG-based hand pose estimation. It includes 2 kHz, 16-channel sEMG recordings synchronized with joint-angle labels derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and approximately 80 million labeled frames across 29 behavioral stages.",
-  "methods_description": "Surface EMG was recorded at 2 kHz with 16 channels from the wrist, paired with hand pose labels derived from a 26-camera motion-capture rig using inverse kinematics to produce 20 joint-angle channels. The original HDF5 recordings were converted to EMG-BIDS BDF files using a parallel adaptation of facebookresearch/emg2pose PR #6, with BAD_IK annotations marking samples where inverse-kinematics labels are invalid.",
+  "description": "This dataset is a NEMAR re-host and BIDS conversion of the emg2pose benchmark, comprising surface electromyography (EMG) recordings paired with hand pose labels for wrist-worn sEMG-based hand pose estimation. It includes 16-channel, 2 kHz sEMG recordings synchronized with joint-angle labels derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and approximately 80 million labeled frames across 29 behavioral stages.",
+  "methods_description": "Surface EMG was recorded at 2 kHz across 16 channels from the wrist, paired with hand pose labels derived from a 26-camera motion-capture rig using inverse kinematics to produce 20 joint-angle channels. The data were converted from the original HDF5 format to EMG-BIDS BDF files, with joint angles stored as radian-valued MISC channels and BAD_IK annotations marking invalid inverse-kinematics samples.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -30,7 +30,7 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
     },
     {
-      "term": "Hand pose estimation"
+      "term": "hand pose estimation"
     },
     {
       "term": "surface EMG"
@@ -39,7 +39,7 @@
       "term": "motion capture"
     },
     {
-      "term": "inverse kinematics"
+      "term": "benchmark dataset"
     },
     {
       "term": "BIDS"
@@ -88,5 +88,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "019dd76035d6d6034667222b7e78cec6ed62595a69a33ffa295ce720c3d550de"
+  "source_hash": "278a24ac9cc6eb092630d1e0f27c66700e191bd51879b7867aff2104b6c2dbd2"
 }
