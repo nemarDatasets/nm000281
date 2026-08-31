@@ -1,17 +1,17 @@
-filename	acq_time	duration	stage	side	source_file
-emg/sub-68_ses-01_task-emg2pose_run-01_recording-left_emg.bdf	n/a	60.0405	TwoHandedFreeStyle	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-1_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-02_recording-right_emg.bdf	n/a	60.2085	TwoHandedFreeStyle	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-1_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-03_recording-left_emg.bdf	n/a	52.7355	IndexPinchesMiddlePinchesThumbswipes	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-2_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-04_recording-right_emg.bdf	n/a	54.2195	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-2_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-05_recording-left_emg.bdf	n/a	53.3875	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-3_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-06_recording-right_emg.bdf	n/a	53.3795	IndexPinchesMiddlePinchesThumbswipes	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-3_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-07_recording-left_emg.bdf	n/a	53.0035	DoorknobFingerGraspFistGrab	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-4_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-08_recording-right_emg.bdf	n/a	53.9915	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-4_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-09_recording-left_emg.bdf	n/a	49.6885	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-5_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-10_recording-right_emg.bdf	n/a	49.6925	DoorknobFingerGraspFistGrab	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-5_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-11_recording-left_emg.bdf	n/a	48.1845	FastPongFronthandBackhandThrowing	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-6_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-12_recording-right_emg.bdf	n/a	50.7045	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-6_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-13_recording-left_emg.bdf	n/a	44.4075	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-7_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-14_recording-right_emg.bdf	n/a	44.3675	FastPongFronthandBackhandThrowing	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-7_right.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-15_recording-left_emg.bdf	n/a	60.0965	HandDeskSeparateClaspedChest	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-8_left.hdf5
-emg/sub-68_ses-01_task-emg2pose_run-16_recording-right_emg.bdf	n/a	60.0885	HandDeskSeparateClaspedChest	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-8_right.hdf5
+filename	acq_time	duration	stage	side	source_file	split	generalization
+emg/sub-68_ses-01_task-emg2pose_run-01_recording-left_emg.bdf	n/a	60.0405	TwoHandedFreeStyle	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-1_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-02_recording-right_emg.bdf	n/a	60.2085	TwoHandedFreeStyle	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-1_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-03_recording-left_emg.bdf	n/a	52.7355	IndexPinchesMiddlePinchesThumbswipes	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-2_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-04_recording-right_emg.bdf	n/a	54.2195	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-2_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-05_recording-left_emg.bdf	n/a	53.3875	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-3_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-06_recording-right_emg.bdf	n/a	53.3795	IndexPinchesMiddlePinchesThumbswipes	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-3_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-07_recording-left_emg.bdf	n/a	53.0035	DoorknobFingerGraspFistGrab	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-4_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-08_recording-right_emg.bdf	n/a	53.9915	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-4_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-09_recording-left_emg.bdf	n/a	49.6885	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-5_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-10_recording-right_emg.bdf	n/a	49.6925	DoorknobFingerGraspFistGrab	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-5_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-11_recording-left_emg.bdf	n/a	48.1845	FastPongFronthandBackhandThrowing	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-6_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-12_recording-right_emg.bdf	n/a	50.7045	unconstrained	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-6_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-13_recording-left_emg.bdf	n/a	44.4075	unconstrained	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-7_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-14_recording-right_emg.bdf	n/a	44.3675	FastPongFronthandBackhandThrowing	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-7_right.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-15_recording-left_emg.bdf	n/a	60.0965	HandDeskSeparateClaspedChest	left	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-8_left.hdf5	val	user
+emg/sub-68_ses-01_task-emg2pose_run-16_recording-right_emg.bdf	n/a	60.0885	HandDeskSeparateClaspedChest	right	2022-06-16-1655366400-15d47-cv-emg-pose-demonstration@2-recording-8_right.hdf5	val	user

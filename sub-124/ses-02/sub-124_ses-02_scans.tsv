@@ -1,3 +1,3 @@
-filename	acq_time	duration	stage	side	source_file
-emg/sub-124_ses-02_task-emg2pose_run-01_recording-left_emg.bdf	n/a	58.149	TwoHandedFreeStyle	left	2022-10-19-1666166400-a1332-cv-emg-pose-demonstration@2-recording-1_left.hdf5
-emg/sub-124_ses-02_task-emg2pose_run-02_recording-right_emg.bdf	n/a	58.157	TwoHandedFreeStyle	right	2022-10-19-1666166400-a1332-cv-emg-pose-demonstration@2-recording-1_right.hdf5
+filename	acq_time	duration	stage	side	source_file	split	generalization
+emg/sub-124_ses-02_task-emg2pose_run-01_recording-left_emg.bdf	n/a	58.149	TwoHandedFreeStyle	left	2022-10-19-1666166400-a1332-cv-emg-pose-demonstration@2-recording-1_left.hdf5	train	none
+emg/sub-124_ses-02_task-emg2pose_run-02_recording-right_emg.bdf	n/a	58.157	TwoHandedFreeStyle	right	2022-10-19-1666166400-a1332-cv-emg-pose-demonstration@2-recording-1_right.hdf5	train	none
