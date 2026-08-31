@@ -1,9 +1,6 @@
 {
   "trial_type": {
-    "Description": "emg2pose movement stage label or inverse-kinematics failure.",
-    "Levels": {
-      "BAD_IK": "Frames whose inverse-kinematics pose label did not resolve."
-    }
+    "Description": "emg2pose movement stage label or inverse-kinematics failure."
   },
   "side": {
     "Description": "Recorded hand side.",
