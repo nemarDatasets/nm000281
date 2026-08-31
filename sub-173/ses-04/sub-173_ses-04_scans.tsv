@@ -1,37 +1,37 @@
 filename	acq_time	duration	stage	side	source_file	split	generalization
-emg/sub-173_ses-04_task-emg2pose_run-01_recording-left_emg.bdf		66.215	TwoHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-1_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-02_recording-right_emg.bdf		66.219	TwoHandedFreeStyle	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-1_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-03_recording-left_emg.bdf		78.961	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-2_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-04_recording-right_emg.bdf		78.949	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-2_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-05_recording-left_emg.bdf		45.817	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-3_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-06_recording-right_emg.bdf		45.821	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-3_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-07_recording-left_emg.bdf		46.853	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-4_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-08_recording-right_emg.bdf		46.853	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-4_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-09_recording-left_emg.bdf		47.3445	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-5_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-10_recording-right_emg.bdf		47.3365	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-5_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-11_recording-right_emg.bdf		47.3725	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-6_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-12_recording-left_emg.bdf		47.3725	FastPongFronthandBackhandThrowing	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-6_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-13_recording-right_emg.bdf		49.3125	FastPongFronthandBackhandThrowing	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-7_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-14_recording-left_emg.bdf		49.3205	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-7_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-15_recording-right_emg.bdf		61.8845	HandDeskSeparateClaspedChest	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-8_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-16_recording-left_emg.bdf		61.8845	HandDeskSeparateClaspedChest	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-8_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-17_recording-right_emg.bdf		47.5645	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-9_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-18_recording-left_emg.bdf		47.5645	PokePinchCloseFar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-9_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-19_recording-left_emg.bdf		58.0285	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-10_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-20_recording-right_emg.bdf		58.0245	PokePinchCloseFar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-10_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-21_recording-right_emg.bdf		51.1875	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-11_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-22_recording-left_emg.bdf		51.205	PokePinchCloseFar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-11_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-23_recording-right_emg.bdf		47.581	PokePinchCloseFar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-12_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-24_recording-left_emg.bdf		47.581	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-12_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-25_recording-right_emg.bdf		46.0085	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-13_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-26_recording-left_emg.bdf		46.0005	PokeDrawPinchRotateclosefar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-13_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-27_recording-right_emg.bdf		45.9235	PokeDrawPinchRotateclosefar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-14_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-28_recording-left_emg.bdf		45.9235	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-14_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-29_recording-right_emg.bdf		51.8035	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-15_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-30_recording-left_emg.bdf		51.7915	AllFingerPinchesThumbSwipeThumbRotate	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-15_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-31_recording-right_emg.bdf		57.6165	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-16_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-32_recording-left_emg.bdf		57.6125	CountingUpDownFingerWigglingSpreading	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-16_left.hdf5	val	user_stage
-emg/sub-173_ses-04_task-emg2pose_run-33_recording-right_emg.bdf		47.3315	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-17_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-34_recording-left_emg.bdf		47.3355	OneHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-17_left.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-35_recording-right_emg.bdf		69.423	OneHandedFreeStyle	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-18_right.hdf5	val	user
-emg/sub-173_ses-04_task-emg2pose_run-36_recording-left_emg.bdf		69.4245	OneHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-18_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-01_recording-left_emg.bdf	n/a	66.215	TwoHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-1_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-02_recording-right_emg.bdf	n/a	66.219	TwoHandedFreeStyle	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-1_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-03_recording-left_emg.bdf	n/a	78.961	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-2_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-04_recording-right_emg.bdf	n/a	78.949	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-2_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-05_recording-left_emg.bdf	n/a	45.817	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-3_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-06_recording-right_emg.bdf	n/a	45.821	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-3_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-07_recording-left_emg.bdf	n/a	46.853	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-4_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-08_recording-right_emg.bdf	n/a	46.853	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-4_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-09_recording-left_emg.bdf	n/a	47.3445	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-5_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-10_recording-right_emg.bdf	n/a	47.3365	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-5_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-11_recording-right_emg.bdf	n/a	47.3725	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-6_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-12_recording-left_emg.bdf	n/a	47.3725	FastPongFronthandBackhandThrowing	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-6_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-13_recording-right_emg.bdf	n/a	49.3125	FastPongFronthandBackhandThrowing	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-7_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-14_recording-left_emg.bdf	n/a	49.3205	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-7_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-15_recording-right_emg.bdf	n/a	61.8845	HandDeskSeparateClaspedChest	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-8_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-16_recording-left_emg.bdf	n/a	61.8845	HandDeskSeparateClaspedChest	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-8_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-17_recording-right_emg.bdf	n/a	47.5645	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-9_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-18_recording-left_emg.bdf	n/a	47.5645	PokePinchCloseFar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-9_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-19_recording-left_emg.bdf	n/a	58.0285	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-10_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-20_recording-right_emg.bdf	n/a	58.0245	PokePinchCloseFar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-10_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-21_recording-right_emg.bdf	n/a	51.1875	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-11_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-22_recording-left_emg.bdf	n/a	51.205	PokePinchCloseFar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-11_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-23_recording-right_emg.bdf	n/a	47.581	PokePinchCloseFar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-12_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-24_recording-left_emg.bdf	n/a	47.581	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-12_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-25_recording-right_emg.bdf	n/a	46.0085	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-13_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-26_recording-left_emg.bdf	n/a	46.0005	PokeDrawPinchRotateclosefar	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-13_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-27_recording-right_emg.bdf	n/a	45.9235	PokeDrawPinchRotateclosefar	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-14_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-28_recording-left_emg.bdf	n/a	45.9235	unconstrained	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-14_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-29_recording-right_emg.bdf	n/a	51.8035	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-15_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-30_recording-left_emg.bdf	n/a	51.7915	AllFingerPinchesThumbSwipeThumbRotate	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-15_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-31_recording-right_emg.bdf	n/a	57.6165	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-16_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-32_recording-left_emg.bdf	n/a	57.6125	CountingUpDownFingerWigglingSpreading	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-16_left.hdf5	val	user_stage
+emg/sub-173_ses-04_task-emg2pose_run-33_recording-right_emg.bdf	n/a	47.3315	unconstrained	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-17_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-34_recording-left_emg.bdf	n/a	47.3355	OneHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-17_left.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-35_recording-right_emg.bdf	n/a	69.423	OneHandedFreeStyle	right	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-18_right.hdf5	val	user
+emg/sub-173_ses-04_task-emg2pose_run-36_recording-left_emg.bdf	n/a	69.4245	OneHandedFreeStyle	left	2022-09-07-1662537600-a3288-cv-emg-pose-demonstration@2-recording-18_left.hdf5	val	user

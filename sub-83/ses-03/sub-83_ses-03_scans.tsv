@@ -1,11 +1,11 @@
 filename	acq_time	duration	stage	side	source_file	split	generalization
-emg/sub-83_ses-03_task-emg2pose_run-01_recording-left_emg.bdf		62.4965	TwoHandedFreeStyle	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-1_left.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-02_recording-right_emg.bdf		62.5005	TwoHandedFreeStyle	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-1_right.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-03_recording-left_emg.bdf		42.7405	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-2_left.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-04_recording-right_emg.bdf		42.7325	unconstrained	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-2_right.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-05_recording-left_emg.bdf		42.6125	unconstrained	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-3_left.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-06_recording-right_emg.bdf		42.6165	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-3_right.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-07_recording-left_emg.bdf		43.821	FastPongFronthandBackhandThrowing	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-4_left.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-08_recording-right_emg.bdf		43.8355	unconstrained	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-4_right.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-09_recording-left_emg.bdf		43.9725	unconstrained	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-5_left.hdf5	train	none
-emg/sub-83_ses-03_task-emg2pose_run-10_recording-right_emg.bdf		43.9645	FastPongFronthandBackhandThrowing	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-5_right.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-01_recording-left_emg.bdf	n/a	62.4965	TwoHandedFreeStyle	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-1_left.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-02_recording-right_emg.bdf	n/a	62.5005	TwoHandedFreeStyle	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-1_right.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-03_recording-left_emg.bdf	n/a	42.7405	IndexPinchesMiddlePinchesThumbswipes	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-2_left.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-04_recording-right_emg.bdf	n/a	42.7325	unconstrained	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-2_right.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-05_recording-left_emg.bdf	n/a	42.6125	unconstrained	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-3_left.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-06_recording-right_emg.bdf	n/a	42.6165	IndexPinchesMiddlePinchesThumbswipes	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-3_right.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-07_recording-left_emg.bdf	n/a	43.821	FastPongFronthandBackhandThrowing	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-4_left.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-08_recording-right_emg.bdf	n/a	43.8355	unconstrained	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-4_right.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-09_recording-left_emg.bdf	n/a	43.9725	unconstrained	left	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-5_left.hdf5	train	none
+emg/sub-83_ses-03_task-emg2pose_run-10_recording-right_emg.bdf	n/a	43.9645	FastPongFronthandBackhandThrowing	right	2022-09-21-1663747200-bcc57-cv-emg-pose-demonstration@2-recording-5_right.hdf5	train	none

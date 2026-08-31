@@ -1,33 +1,33 @@
 filename	acq_time	duration	stage	side	source_file	split	generalization
-emg/sub-147_ses-01_task-emg2pose_run-01_recording-left_emg.bdf		64.7135	TwoHandedFreeStyle	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-1_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-02_recording-right_emg.bdf		64.7095	TwoHandedFreeStyle	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-1_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-03_recording-right_emg.bdf		45.273	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-2_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-04_recording-left_emg.bdf		45.281	IndexPinchesMiddlePinchesThumbswipes	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-2_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-05_recording-right_emg.bdf		44.289	IndexPinchesMiddlePinchesThumbswipes	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-3_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-06_recording-left_emg.bdf		44.285	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-3_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-07_recording-right_emg.bdf		44.889	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-4_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-08_recording-left_emg.bdf		44.889	FastPongFronthandBackhandThrowing	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-4_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-09_recording-right_emg.bdf		45.989	FastPongFronthandBackhandThrowing	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-5_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-10_recording-left_emg.bdf		45.985	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-5_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-11_recording-right_emg.bdf		44.2735	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-6_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-12_recording-left_emg.bdf		44.2855	PokePinchCloseFar	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-6_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-13_recording-right_emg.bdf		44.177	PokePinchCloseFar	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-7_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-14_recording-left_emg.bdf		44.177	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-7_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-15_recording-right_emg.bdf		43.9525	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-8_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-16_recording-left_emg.bdf		43.9445	GraspPunchCloseFar	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-8_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-17_recording-left_emg.bdf		46.7925	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-9_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-18_recording-right_emg.bdf		46.7965	GraspPunchCloseFar	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-9_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-19_recording-right_emg.bdf		45.817	AllFingerPinchesThumbSwipeThumbRotate	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-10_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-20_recording-left_emg.bdf		45.817	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-10_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-21_recording-right_emg.bdf		44.889	CountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-11_right.hdf5	test	stage
-emg/sub-147_ses-01_task-emg2pose_run-22_recording-left_emg.bdf		44.885	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-11_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-23_recording-right_emg.bdf		45.473	OneHandedFreeStyle	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-12_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-24_recording-left_emg.bdf		45.465	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-12_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-25_recording-right_emg.bdf		59.253	FingerTouchPalmClapmrburns	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-13_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-26_recording-left_emg.bdf		59.249	FingerTouchPalmClapmrburns	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-13_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-27_recording-right_emg.bdf		46.2285	HandOverHandAllFingerPinchesThumbSwipeThumbRotate	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-14_right.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-28_recording-left_emg.bdf		46.2285	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-14_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-29_recording-right_emg.bdf		49.4805	HandOverHandCountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-15_right.hdf5	test	stage
-emg/sub-147_ses-01_task-emg2pose_run-30_recording-left_emg.bdf		49.4885	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-15_left.hdf5	train	none
-emg/sub-147_ses-01_task-emg2pose_run-31_recording-right_emg.bdf		61.4475	HandOverHandCountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-16_right.hdf5	test	stage
-emg/sub-147_ses-01_task-emg2pose_run-32_recording-left_emg.bdf		61.4515	HandOverHandCountingUpDownFingerWigglingSpreading	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-16_left.hdf5	test	stage
+emg/sub-147_ses-01_task-emg2pose_run-01_recording-left_emg.bdf	n/a	64.7135	TwoHandedFreeStyle	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-1_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-02_recording-right_emg.bdf	n/a	64.7095	TwoHandedFreeStyle	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-1_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-03_recording-right_emg.bdf	n/a	45.273	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-2_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-04_recording-left_emg.bdf	n/a	45.281	IndexPinchesMiddlePinchesThumbswipes	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-2_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-05_recording-right_emg.bdf	n/a	44.289	IndexPinchesMiddlePinchesThumbswipes	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-3_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-06_recording-left_emg.bdf	n/a	44.285	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-3_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-07_recording-right_emg.bdf	n/a	44.889	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-4_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-08_recording-left_emg.bdf	n/a	44.889	FastPongFronthandBackhandThrowing	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-4_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-09_recording-right_emg.bdf	n/a	45.989	FastPongFronthandBackhandThrowing	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-5_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-10_recording-left_emg.bdf	n/a	45.985	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-5_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-11_recording-right_emg.bdf	n/a	44.2735	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-6_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-12_recording-left_emg.bdf	n/a	44.2855	PokePinchCloseFar	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-6_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-13_recording-right_emg.bdf	n/a	44.177	PokePinchCloseFar	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-7_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-14_recording-left_emg.bdf	n/a	44.177	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-7_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-15_recording-right_emg.bdf	n/a	43.9525	unconstrained	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-8_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-16_recording-left_emg.bdf	n/a	43.9445	GraspPunchCloseFar	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-8_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-17_recording-left_emg.bdf	n/a	46.7925	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-9_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-18_recording-right_emg.bdf	n/a	46.7965	GraspPunchCloseFar	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-9_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-19_recording-right_emg.bdf	n/a	45.817	AllFingerPinchesThumbSwipeThumbRotate	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-10_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-20_recording-left_emg.bdf	n/a	45.817	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-10_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-21_recording-right_emg.bdf	n/a	44.889	CountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-11_right.hdf5	test	stage
+emg/sub-147_ses-01_task-emg2pose_run-22_recording-left_emg.bdf	n/a	44.885	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-11_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-23_recording-right_emg.bdf	n/a	45.473	OneHandedFreeStyle	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-12_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-24_recording-left_emg.bdf	n/a	45.465	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-12_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-25_recording-right_emg.bdf	n/a	59.253	FingerTouchPalmClapmrburns	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-13_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-26_recording-left_emg.bdf	n/a	59.249	FingerTouchPalmClapmrburns	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-13_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-27_recording-right_emg.bdf	n/a	46.2285	HandOverHandAllFingerPinchesThumbSwipeThumbRotate	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-14_right.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-28_recording-left_emg.bdf	n/a	46.2285	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-14_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-29_recording-right_emg.bdf	n/a	49.4805	HandOverHandCountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-15_right.hdf5	test	stage
+emg/sub-147_ses-01_task-emg2pose_run-30_recording-left_emg.bdf	n/a	49.4885	unconstrained	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-15_left.hdf5	train	none
+emg/sub-147_ses-01_task-emg2pose_run-31_recording-right_emg.bdf	n/a	61.4475	HandOverHandCountingUpDownFingerWigglingSpreading	right	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-16_right.hdf5	test	stage
+emg/sub-147_ses-01_task-emg2pose_run-32_recording-left_emg.bdf	n/a	61.4515	HandOverHandCountingUpDownFingerWigglingSpreading	left	2022-10-24-1666598400-788eb-cv-emg-pose-demonstration@2-recording-16_left.hdf5	test	stage

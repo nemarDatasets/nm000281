@@ -1,31 +1,31 @@
 filename	acq_time	duration	stage	side	source_file	split	generalization
-emg/sub-39_ses-01_task-emg2pose_run-01_recording-left_emg.bdf		60.883	ThumbsUpDownThumbRotationsCWCCWP	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-1_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-02_recording-right_emg.bdf		60.955	ThumbsUpDownThumbRotationsCWCCWP	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-1_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-03_recording-right_emg.bdf		59.885	CountingUpDownFaceSideAway	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-2_right.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-04_recording-left_emg.bdf		59.861	CountingUpDownFaceSideAway	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-2_left.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-05_recording-right_emg.bdf		59.3315	ThumbsSwipesWholeHand	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-3_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-06_recording-left_emg.bdf		59.3355	ThumbsSwipesWholeHand	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-3_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-07_recording-right_emg.bdf		60.605	FingerWigglingSpreading	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-4_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-08_recording-left_emg.bdf		60.609	FingerWigglingSpreading	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-4_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-09_recording-right_emg.bdf		61.3285	FingerAbductionSeries	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-5_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-10_recording-left_emg.bdf		61.3285	FingerAbductionSeries	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-5_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-11_recording-right_emg.bdf		59.5555	WristFlexionAbduction	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-6_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-12_recording-left_emg.bdf		59.5195	WristFlexionAbduction	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-6_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-13_recording-right_emg.bdf		59.5555	FingerPinchesSingleFingerPinchesMultiple	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-7_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-14_recording-left_emg.bdf		59.4915	FingerPinchesSingleFingerPinchesMultiple	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-7_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-15_recording-right_emg.bdf		62.2715	FingerFreeform	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-8_right.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-16_recording-left_emg.bdf		62.2595	FingerFreeform	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-8_left.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-17_recording-left_emg.bdf		67.7275	IndividualFingerPointingSnap	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-9_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-18_recording-right_emg.bdf		67.7515	IndividualFingerPointingSnap	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-9_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-19_recording-right_emg.bdf		64.7765	HandClawGraspFlicks	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-10_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-20_recording-left_emg.bdf		64.7765	HandClawGraspFlicks	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-10_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-21_recording-right_emg.bdf		61.2885	ShakaVulcanPeace	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-11_right.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-22_recording-left_emg.bdf		61.2725	ShakaVulcanPeace	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-11_left.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-23_recording-left_emg.bdf		61.459	HookEmHornsOKScissors	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-12_left.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-24_recording-right_emg.bdf		61.4605	HookEmHornsOKScissors	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-12_right.hdf5	test	stage
-emg/sub-39_ses-01_task-emg2pose_run-25_recording-right_emg.bdf		239.4885	TwoHandedFreeStyle	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-13_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-26_recording-left_emg.bdf		239.0565	TwoHandedFreeStyle	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-13_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-27_recording-left_emg.bdf		51.2275	OneHandedFreeStyle	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-14_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-28_recording-right_emg.bdf		51.2315	unconstrained	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-14_right.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-29_recording-left_emg.bdf		46.5555	unconstrained	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-15_left.hdf5	train	none
-emg/sub-39_ses-01_task-emg2pose_run-30_recording-right_emg.bdf		46.5635	OneHandedFreeStyle	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-15_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-01_recording-left_emg.bdf	n/a	60.883	ThumbsUpDownThumbRotationsCWCCWP	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-1_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-02_recording-right_emg.bdf	n/a	60.955	ThumbsUpDownThumbRotationsCWCCWP	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-1_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-03_recording-right_emg.bdf	n/a	59.885	CountingUpDownFaceSideAway	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-2_right.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-04_recording-left_emg.bdf	n/a	59.861	CountingUpDownFaceSideAway	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-2_left.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-05_recording-right_emg.bdf	n/a	59.3315	ThumbsSwipesWholeHand	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-3_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-06_recording-left_emg.bdf	n/a	59.3355	ThumbsSwipesWholeHand	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-3_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-07_recording-right_emg.bdf	n/a	60.605	FingerWigglingSpreading	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-4_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-08_recording-left_emg.bdf	n/a	60.609	FingerWigglingSpreading	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-4_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-09_recording-right_emg.bdf	n/a	61.3285	FingerAbductionSeries	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-5_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-10_recording-left_emg.bdf	n/a	61.3285	FingerAbductionSeries	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-5_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-11_recording-right_emg.bdf	n/a	59.5555	WristFlexionAbduction	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-6_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-12_recording-left_emg.bdf	n/a	59.5195	WristFlexionAbduction	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-6_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-13_recording-right_emg.bdf	n/a	59.5555	FingerPinchesSingleFingerPinchesMultiple	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-7_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-14_recording-left_emg.bdf	n/a	59.4915	FingerPinchesSingleFingerPinchesMultiple	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-7_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-15_recording-right_emg.bdf	n/a	62.2715	FingerFreeform	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-8_right.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-16_recording-left_emg.bdf	n/a	62.2595	FingerFreeform	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-8_left.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-17_recording-left_emg.bdf	n/a	67.7275	IndividualFingerPointingSnap	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-9_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-18_recording-right_emg.bdf	n/a	67.7515	IndividualFingerPointingSnap	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-9_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-19_recording-right_emg.bdf	n/a	64.7765	HandClawGraspFlicks	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-10_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-20_recording-left_emg.bdf	n/a	64.7765	HandClawGraspFlicks	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-10_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-21_recording-right_emg.bdf	n/a	61.2885	ShakaVulcanPeace	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-11_right.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-22_recording-left_emg.bdf	n/a	61.2725	ShakaVulcanPeace	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-11_left.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-23_recording-left_emg.bdf	n/a	61.459	HookEmHornsOKScissors	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-12_left.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-24_recording-right_emg.bdf	n/a	61.4605	HookEmHornsOKScissors	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-12_right.hdf5	test	stage
+emg/sub-39_ses-01_task-emg2pose_run-25_recording-right_emg.bdf	n/a	239.4885	TwoHandedFreeStyle	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-13_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-26_recording-left_emg.bdf	n/a	239.0565	TwoHandedFreeStyle	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-13_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-27_recording-left_emg.bdf	n/a	51.2275	OneHandedFreeStyle	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-14_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-28_recording-right_emg.bdf	n/a	51.2315	unconstrained	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-14_right.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-29_recording-left_emg.bdf	n/a	46.5555	unconstrained	left	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-15_left.hdf5	train	none
+emg/sub-39_ses-01_task-emg2pose_run-30_recording-right_emg.bdf	n/a	46.5635	OneHandedFreeStyle	right	2022-07-14-1657785600-3c1b5-cv-emg-pose-train@2-recording-15_right.hdf5	train	none
