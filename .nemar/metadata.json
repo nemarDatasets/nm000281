@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "pipeline_stage": "enriched",
+  "pipeline_stage": "validated",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "This dataset is a NEMAR re-host and BIDS conversion of the emg2pose benchmark, comprising surface electromyography (EMG) recordings paired with hand pose labels for wrist-worn sEMG-based hand pose estimation. It includes 16-channel, 2 kHz sEMG recordings synchronized with joint-angle labels derived from a 26-camera motion-capture rig, spanning 193 users, 370 hours, and approximately 80 million labeled frames across 29 behavioral stages.",
-  "methods_description": "Surface EMG was recorded at 2 kHz across 16 channels from the wrist, paired with hand pose labels derived from a 26-camera motion-capture rig using inverse kinematics to produce 20 joint-angle channels. The data were converted from the original HDF5 format to EMG-BIDS BDF files, with joint angles stored as radian-valued MISC channels and BAD_IK annotations marking invalid inverse-kinematics samples.",
+  "description": "A NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose benchmark, pairing 2 kHz, 16-channel wrist surface electromyography with hand pose labels from a 26-camera motion-capture system. The release spans 193 users, about 370 hours, 29 behavioral stages and roughly 80 million labeled frames. It supports research on estimating hand pose from surface EMG.",
+  "methods_description": "Wrist sEMG was recorded at 2 kHz over 16 channels, with hand pose labels captured by a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files containing 16 EMG channels and 20 joint-angle channels in radians (MISC). BAD_IK annotations mark samples where the inverse-kinematics labels are all zero.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -30,19 +30,19 @@
       "value_uri": "http://id.nlm.nih.gov/mesh/D004576"
     },
     {
-      "term": "hand pose estimation"
+      "term": "surface EMG"
     },
     {
-      "term": "surface EMG"
+      "term": "hand pose estimation"
     },
     {
       "term": "motion capture"
     },
     {
-      "term": "benchmark dataset"
+      "term": "benchmark"
     },
     {
-      "term": "BIDS"
+      "term": "EMG-BIDS"
     }
   ],
   "related_identifiers": [
@@ -73,7 +73,7 @@
     "emg"
   ],
   "sizes": [
-    "1.1 TB (50020 files)"
+    "1.02 TB (50020 files)"
   ],
   "formats": [
     ".bdf",
