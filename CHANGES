@@ -1,3 +1,10 @@
 1.0.5 2026-10-31
 
   - Rescale joint-angle channels to radians in the BDF headers
+  - Version 1.0.2 (31 August 2026) relabelled the joint-angle channels from uV to rad
+    without rescaling their physical range, so readers such as MNE returned joint
+    angles 1,000,000 times too large (up to about 2,000,000 rad). The physical
+    minimum and maximum of the joint channels are now divided by 1,000,000 and
+    labelled rad in 24,995 BDF headers. Digital samples, digital limits and the EMG
+    channels are unchanged; the 258 recordings with flat joint channels (range 0 to 1)
+    are unchanged. Script: sourcedata/code/rescale_joint_physical_range.py.
