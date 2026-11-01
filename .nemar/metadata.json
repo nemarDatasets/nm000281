@@ -2,8 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "emg2pose: Surface EMG and Hand Pose",
-  "description": "A NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose benchmark, pairing 2 kHz, 16-channel wrist surface electromyography with hand pose labels from a 26-camera motion-capture system. The release spans 193 users, about 370 hours, 29 behavioral stages and roughly 80 million labeled frames. It supports research on estimating hand pose from surface EMG.",
-  "methods_description": "Wrist sEMG was recorded at 2 kHz over 16 channels, with hand pose labels captured by a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files containing 16 EMG channels and 20 joint-angle channels in radians (MISC). BAD_IK annotations mark samples where the inverse-kinematics labels are all zero.",
+  "description": "This dataset is a NEMAR re-host and EMG-BIDS conversion of the public Meta emg2pose benchmark for hand pose estimation from wrist surface electromyography. It contains 2 kHz, 16-channel sEMG recordings paired with joint-angle hand pose labels captured with a 26-camera motion-capture system. The release spans 193 users, about 370 hours, 29 behavioral stages, and roughly 80 million labeled frames.",
+  "methods_description": "Wrist sEMG was recorded at 2 kHz with 16 channels, with hand pose labels from a 26-camera motion-capture rig. Upstream HDF5 recordings were converted to EMG-BIDS BDF files holding 16 EMG channels and 20 radian-valued joint-angle MISC channels. BAD_IK annotations mark samples where the inverse-kinematics labels are all zero.",
   "license": "CC-BY-NC-SA-4.0",
   "dataset_type": "raw",
   "authors": {
@@ -73,7 +73,7 @@
     "emg"
   ],
   "sizes": [
-    "1.02 TB (50020 files)"
+    "1.32 TB (74937 files)"
   ],
   "formats": [
     ".bdf",
@@ -88,5 +88,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "278a24ac9cc6eb092630d1e0f27c66700e191bd51879b7867aff2104b6c2dbd2"
+  "source_hash": "6f9c53ad72cccc7b2b639331814d7ae768486a0d8ff79b7d23cfea4a1485e9a4"
 }
